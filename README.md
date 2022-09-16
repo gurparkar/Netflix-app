@@ -2,6 +2,13 @@
 
 Fully Deployed App on https://netflix-app-38f86.web.app/
 
+Languages and Libraries used 
+JavaScript
+React.js
+Redux
+stripe dashboard(Working on this feature)
+firebase(backend)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 
