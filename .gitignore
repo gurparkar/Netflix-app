@@ -21,3 +21,12 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+  const firebaseConfig = {
+    apiKey: "AIVuYz-xkBGTK3lVVmXJofywxaI",
+    authDomain: "netflifirebaseapp.com",
+    projectId: "netflix-38f86",
+    storageBucket: "netflif86.appspot.com",
+    messagingSenderId: "780765",
+    appId: "1:789785:7c9c74a2e2ad575627ca14"
+  }
