@@ -2,8 +2,8 @@
 
 Fully Deployed App on https://netflix-app-38f86.web.app/
 
-Languages and Libraries used 
-JavaScript,
+Languages and Libraries used : 
+ JavaScript,
 React.js,
 Redux ,
 stripe dashboard(Working on this feature) ,
